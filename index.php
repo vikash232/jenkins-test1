@@ -1,5 +1,5 @@
 <?php
 
-print "this is first code by vk";
+print "this is second chages in code by vk";
 
 ?>
